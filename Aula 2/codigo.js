@@ -1,0 +1,6 @@
+let nome = prompt("Seja Bem vindo,qual o seu nome")
+let idade = prompt("Quantos anos você tem?")
+idade = Number(idade)
+console.log(typeof idade)
+alert("Seja bem vindo " + nome + " ,você tem " +  idade + " anos")
+console.log(nome)
