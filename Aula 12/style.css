@@ -1,0 +1,22 @@
+p {
+color: purple;
+}
+
+texto-verde{
+  color: green;  
+}
+
+texto-unico{
+    color: cadetblue;
+}
+.Fora{
+    width: 400px;
+    height: 200px;
+    background-color: brown;
+}
+.Dentro{
+    width: 200px;
+    height: 100px;
+    background-color: chartreuse;
+}
+
