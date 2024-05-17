@@ -31,4 +31,10 @@ console.log(menor)
 console.log(maior)
 let media = soma / 4
 console.log(media)*/
-
+let lista = []
+for(let i = 0;i < 16;i++){
+    
+}
+console.log(lista)
+lista.splice(5,15)
+console.log(lista)
