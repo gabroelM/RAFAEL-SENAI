@@ -1,0 +1,15 @@
+.botao{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+main{
+ display: flex;
+ flex-wrap: wrap;  
+}
+.verd{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 10px;
+}
