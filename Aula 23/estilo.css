@@ -1,0 +1,30 @@
+.Principal{
+height: 400px;
+width: 400px;
+background-color: antiquewhite;
+}
+
+.Principal:hover{
+    background-color: rgb(125, 176, 221);
+}
+
+.Principal:active{
+    background-color: blueviolet;
+}
+
+.n1:focus{
+    color: chartreuse;
+}
+
+.link:visited{
+    text-decoration: none;
+    color: darkolivegreen;
+}
+
+.n1{
+color: red;
+}
+
+.bt-enviar{
+    color: red;
+}
